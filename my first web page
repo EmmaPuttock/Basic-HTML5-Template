@@ -1,0 +1,17 @@
+<!DOCTYPEhtml> <!-- This shows you're document is going to be written in HTML5 -->
+ <html>
+ 
+  <head> <!-- Within the head contains titles, meta, scripts, internal stylesheets and links to external style sheets.
+   
+    <title>My First Web Page</title>
+    
+  </head>
+
+
+  <body>
+    
+    <h1>Hello World</h1> <!-- This is the largest and first header, which will appear on your web page -->
+
+  </body>
+  
+ </html> <!-- Always close the html tag and other elements, otherwise your code will not work -->
